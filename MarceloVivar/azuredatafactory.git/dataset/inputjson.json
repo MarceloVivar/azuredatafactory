@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "data-azure-data-factory.json",
 				"container": "jsondata"
 			}
 		},
